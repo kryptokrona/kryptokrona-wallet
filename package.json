@@ -3,8 +3,8 @@
   "productName": "kryptokrona-wallet",
   "description": "kryptokrona GUI wallet",
   "version": "v0.0.1",
-  "homepage": "https://github.com/kryptokrona/kryptokrona-wallet-electron",
-  "repository": "https://github.com/kryptokrona/kryptokrona-wallet-electron",
+  "homepage": "https://github.com/kryptokrona/kryptokrona-wallet",
+  "repository": "https://github.com/kryptokrona/kryptokrona-wallet",
   "main": "main.js",
   "scripts": {
     "start": "electron .",
