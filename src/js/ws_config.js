@@ -11,7 +11,7 @@ config.appGitRepo = 'https://github.com/kryptokrona/kryptokrona-wallet-electron'
 config.daemonDefaultRpcPort = 11898;
 
 // wallet file created by this app will have this extension
-config.walletFileDefaultExt = 'kkr';
+config.walletFileDefaultExt = 'xkr';
 
 // change this to match your wallet service executable filename
 config.walletServiceBinaryFilename = 'kryptokrona-service';
@@ -45,7 +45,6 @@ config.remoteNodeListFiltered = true;
 
 // fallback remote node list, in case fetching update failed, fill this with known to works remote nodes
 config.remoteNodeListFallback = [
-  'seed.kryptokrona.se:11898',
   'pool.kryptokrona.se:11898',
   '127.0.0.1:11898',
 ];
