@@ -47,6 +47,7 @@ config.remoteNodeListFiltered = true;
 config.remoteNodeListFallback = [
   'pool.kryptokrona.se:11898',
   '127.0.0.1:11898',
+  '13.48.126.91:11898'
 ];
 config.remoteNodeCacheSupported = false;
 config.remoteNodeSslSupported = false;
